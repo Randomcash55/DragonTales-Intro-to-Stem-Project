@@ -1,4 +1,4 @@
-"# Dragontales-Intro-to-Stem-Project" 
+# Dragontales-Intro-to-Stem-Project 
 
 To access this game, you must be running a node server in the console (I'm sorry I couldn't find a way to make the game compatible with the browser without paying money and I'm not about that)
 
